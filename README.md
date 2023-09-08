@@ -1,2 +1,3 @@
 # slimefactory3.github.io
-My website.
+
+currently only has my pgp key but I'll add more in a bit
